@@ -24,7 +24,7 @@ const options = {
   draggable: true,
   tilt: 45,
   mapTypeId: 'satellite',
-  mapId: 'f8c339d29f83a43f', // Replace with your valid Map ID
+  mapId: 'MAP_ID', // Replace with your valid Map ID
 };
 
 const modelPath = '/models/Room.glb'; // Path to the sample GLB model
